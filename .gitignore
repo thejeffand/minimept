@@ -1,0 +1,21 @@
+# Build artifacts
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.csproj.user
+*.sln.docstates
+
+# Other files and directories
+*.log
+*.bak
+*.cache
+*.tmp
+*.db
+*.db-shm
+*.db-wal
+node_modules/
+packages/
